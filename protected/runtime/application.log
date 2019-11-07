@@ -1,0 +1,1712 @@
+2016/01/03 14:10:07 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:07 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:10:07 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (247)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (247)
+2016/01/03 14:10:07 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:10:07 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:07 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:10:07 [error] [exception.CrugeException.401] action_tabHechosRealvspresupuesto_rub<br/>401
+REQUEST_URI=/vyd3/index.php/TabHechosRealvspresupuesto/rub
+HTTP_REFERER=http://localhost/vyd3/index.php/TabHechosRealvspresupuesto/select
+---
+2016/01/03 14:10:07 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:07 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:10:07 [info] [application] SiteController
+actionLogin
+
+in /var/www/vyd3/protected/controllers/SiteController.php (132)
+in /var/www/vyd3/protected/controllers/SiteController.php (51)
+2016/01/03 14:10:07 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:07 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:10:07 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:07 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:07 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:10:50 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:50 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:10:50 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (247)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (247)
+2016/01/03 14:10:50 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:10:50 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:50 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:10:50 [error] [exception.CrugeException.401] action_tabHechosRealvspresupuesto_rub<br/>401
+REQUEST_URI=/vyd3/index.php/TabHechosRealvspresupuesto/rub
+HTTP_REFERER=http://localhost/vyd3/index.php/TabHechosRealvspresupuesto/select
+---
+2016/01/03 14:10:50 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:50 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:10:50 [info] [application] SiteController
+actionLogin
+
+in /var/www/vyd3/protected/controllers/SiteController.php (132)
+in /var/www/vyd3/protected/controllers/SiteController.php (51)
+2016/01/03 14:10:50 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:50 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:10:50 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:10:50 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:10:50 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:54 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:54 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:54 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (247)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (247)
+2016/01/03 14:13:54 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:54 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:54 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:54 [error] [exception.CrugeException.401] action_tabHechosRealvspresupuesto_und<br/>401
+REQUEST_URI=/vyd3/index.php/TabHechosRealvspresupuesto/und
+HTTP_REFERER=http://localhost/vyd3/index.php/TabHechosRealvspresupuesto/select
+---
+2016/01/03 14:13:54 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:54 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:54 [info] [application] SiteController
+actionLogin
+
+in /var/www/vyd3/protected/controllers/SiteController.php (132)
+in /var/www/vyd3/protected/controllers/SiteController.php (51)
+2016/01/03 14:13:54 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:54 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:54 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:54 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:54 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:57 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:57 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:57 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (247)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (247)
+2016/01/03 14:13:57 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:57 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:57 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:57 [error] [exception.CrugeException.401] action_tabHechosRealvspresupuesto_cat<br/>401
+REQUEST_URI=/vyd3/index.php/TabHechosRealvspresupuesto/cat
+HTTP_REFERER=http://localhost/vyd3/index.php/TabHechosRealvspresupuesto/select
+---
+2016/01/03 14:13:57 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:57 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:57 [info] [application] SiteController
+actionLogin
+
+in /var/www/vyd3/protected/controllers/SiteController.php (132)
+in /var/www/vyd3/protected/controllers/SiteController.php (51)
+2016/01/03 14:13:57 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:57 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:13:57 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:13:57 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:13:57 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:14:04 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:04 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:04 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:14:04 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:04 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:04 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:14:04 [info] [application] SiteController
+actionLogin
+
+in /var/www/vyd3/protected/controllers/SiteController.php (132)
+in /var/www/vyd3/protected/controllers/SiteController.php (42)
+in /var/www/vyd3/index.php (13)
+2016/01/03 14:14:04 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:04 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:04 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:14:04 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:04 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:04 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:14:08 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:08 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:08 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:08 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:08 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:14:08 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:08 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:08 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:14:08 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:14:09 [info] [application] CrugeSession::store() #421
+result=1
+errorinfo:
+json: {"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:14:09 [info] [application] SiteController
+actionLogin
+
+in /var/www/vyd3/protected/controllers/SiteController.php (132)
+in /var/www/vyd3/protected/controllers/SiteController.php (42)
+in /var/www/vyd3/index.php (13)
+2016/01/03 14:14:09 [info] [application] CrugeUserManager::loadUser
+usernameOrEmail=admin
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (251)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+in /var/www/vyd3/protected/modules/ldap/components/LdapController.php (95)
+2016/01/03 14:14:09 [info] [application] CrugeFactory::getICrugeStoredUser
+usernameOrEmail=admin
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (297)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+2016/01/03 14:14:09 [info] [application] CrugeFactory::getICrugeStoredUser
+ buscando por -username- a admin
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (314)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+2016/01/03 14:14:09 [info] [application] CrugeFactory::getICrugeStoredUser
+ **USUARIO HA SIDO HALLADO** admin
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (324)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+2016/01/03 14:14:09 [info] [application] CrugeLogon
+authenticate()
+
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (66)
+in /var/www/vyd3/protected/modules/ldap/components/LdapController.php (95)
+in /var/www/vyd3/protected/controllers/SiteController.php (141)
+2016/01/03 14:14:09 [info] [application] CrugeUser::__construct
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (74)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (770)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (67)
+2016/01/03 14:14:09 [info] [application] CrugeUser::authenticate
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (80)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+in /var/www/vyd3/protected/modules/ldap/components/LdapController.php (95)
+2016/01/03 14:14:09 [info] [application] CrugeUser::authenticate
+authmode es:
+default
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (85)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+in /var/www/vyd3/protected/modules/ldap/components/LdapController.php (95)
+2016/01/03 14:14:09 [info] [application] levantando clases de autenticacion de:
+/var/www/vyd3/protected/modules/cruge/models/auth
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (410)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (277)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (470)
+2016/01/03 14:14:09 [info] [application] findfile: AlternateAuthDemo.php, isPhp?YES
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (417)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (277)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (470)
+2016/01/03 14:14:09 [info] [application] findfile: CrugeAuthDefault.php, isPhp?YES
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (417)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (277)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (470)
+2016/01/03 14:14:09 [info] [application] CrugeUser::_performAuth
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (117)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (90)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+2016/01/03 14:14:09 [info] [application] CrugeAuthDefault::authenticate
+in /var/www/vyd3/protected/modules/cruge/models/auth/CrugeAuthDefault.php (64)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (120)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (90)
+2016/01/03 14:14:09 [info] [application] CrugeUserManager::loadUser
+usernameOrEmail=admin
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (251)
+in /var/www/vyd3/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (120)
+2016/01/03 14:14:09 [info] [application] CrugeFactory::getICrugeStoredUser
+usernameOrEmail=admin
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (297)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd3/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+2016/01/03 14:14:09 [info] [application] CrugeFactory::getICrugeStoredUser
+ buscando por -username- a admin
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (314)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd3/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+2016/01/03 14:14:09 [info] [application] CrugeFactory::getICrugeStoredUser
+ **USUARIO HA SIDO HALLADO** admin
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (324)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd3/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+2016/01/03 14:14:09 [info] [application] CrugeAuthDefault::authenticate Usuario Retornado:
+{"iduser":1,"regdate":"1400076907","actdate":"1400076907","logondate":"1451844548","username":"admin","email":"cislibre@cantv.com.ve","password":"21232f297a57a5a743894a0e4a801fc3","authkey":null,"state":1,"totalsessioncounter":0,"currentsessioncounter":0}
+in /var/www/vyd3/protected/modules/cruge/models/auth/CrugeAuthDefault.php (73)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (120)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (90)
+2016/01/03 14:14:09 [info] [application] CrugeAuthDefault
+authenticate returns:
+0
+ boolean result is:1
+in /var/www/vyd3/protected/modules/cruge/models/auth/CrugeAuthDefault.php (105)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (120)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (90)
+2016/01/03 14:14:09 [info] [application] CrugeUser::authenticate
+_performAuth es true
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUser.php (91)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+in /var/www/vyd3/protected/modules/ldap/components/LdapController.php (95)
+2016/01/03 14:14:09 [info] [application] CrugeLogon::login
+intento iniciar sesion. duration=0, username=admin
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (109)
+in /var/www/vyd3/protected/modules/ldap/components/LdapController.php (96)
+in /var/www/vyd3/protected/controllers/SiteController.php (141)
+2016/01/03 14:14:09 [info] [application] CrugeWebUser
+login
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (349)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+in /var/www/vyd3/protected/modules/ldap/components/LdapController.php (96)
+2016/01/03 14:14:09 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (355)
+2016/01/03 14:14:09 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (355)
+2016/01/03 14:14:09 [info] [application] CrugeWebUser
+filtro->startSession
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (373)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+in /var/www/vyd3/protected/modules/ldap/components/LdapController.php (96)
+2016/01/03 14:14:09 [info] [application] CrugeSession::findLast iduser=1
+curSession:{"idsession":421,"iduser":1,"created":"1451844548","expire":"1451846348","status":0,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451844548","logoutdate":null,"ipaddressout":null}
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (107)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (51)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (407)
+2016/01/03 14:14:09 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (112)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (51)
+2016/01/03 14:14:09 [info] [application] CrugeSession::findLast
+result:[sesion encontrada][sesion no validada]
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (122)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeFactory.php (51)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (407)
+2016/01/03 14:14:09 [info] [application] CrugeUserManager::createSession. user=#1
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (449)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (71)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (374)
+2016/01/03 14:14:09 [info] [application] CrugeWebUser
+filtro->startSession OK
+
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (375)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+in /var/www/vyd3/protected/modules/ldap/components/LdapController.php (96)
+2016/01/03 14:14:09 [info] [application] CrugeSession::store() #422
+result=1
+errorinfo:
+json: {"status":1,"usagecount":1,"iduser":1,"created":1451846649,"lastusage":1451846649,"expire":1451848449,"ipaddress":"127.0.0.1","idsession":"422","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (377)
+2016/01/03 14:14:09 [info] [application] DefaultSessionFilter.onLogin
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (133)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeWebUser.php (383)
+in /var/www/vyd3/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+2016/01/03 14:14:09 [info] [application] CrugeStoredUser::save
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeStoredUser.php (171)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (384)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (137)
+2016/01/03 14:14:09 [info] [application] CrugeStoredUser::save returns: [1]
+in /var/www/vyd3/protected/modules/cruge/models/data/CrugeStoredUser.php (178)
+in /var/www/vyd3/protected/modules/cruge/components/CrugeUserManager.php (384)
+in /var/www/vyd3/protected/modules/cruge/models/filters/DefaultSessionFilter.php (137)
+2016/01/03 14:14:09 [info] [application] LdapController
+CrugeLogon->login() returns true
+
+in /var/www/vyd3/protected/modules/ldap/components/LdapController.php (98)
+in /var/www/vyd3/protected/controllers/SiteController.php (141)
+in /var/www/vyd3/protected/controllers/SiteController.php (42)
+2016/01/03 14:16:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "amcharts/images/lens.png"' in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('amcharts/images...')
+#1 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/vyd3/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/vyd3/index.php/amcharts/images/lens.png
+HTTP_REFERER=http://localhost/vyd3/index.php/TabHechosRealvspresupuesto/select
+---
+2016/01/03 14:16:54 [error] [php] Undefined variable: unidad_gJ (/var/www/vyd3/protected/models/TabHechosRealvspresupuesto.php:276)
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/yii/framework/web/filters/CFilterChain.php(133): TabHechosRealvspresupuestoController->runAction()
+#2 /var/www/vyd3/protected/modules/ldap/components/CrugeAccessControlFilter.php(90): CFilterChain->run()
+#3 /var/www/yii/framework/web/filters/CFilter.php(38): CrugeAccessControlFilter->preFilter()
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CrugeAccessControlFilter->filter()
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): TabHechosRealvspresupuestoController->runActionWithFilters()
+#7 /var/www/yii/framework/web/CWebApplication.php(282): TabHechosRealvspresupuestoController->run()
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/vyd3/index.php(13): CWebApplication->run()
+REQUEST_URI=/vyd3/index.php/TabHechosRealvspresupuesto/cat
+in /var/www/vyd3/protected/models/TabHechosRealvspresupuesto.php (276)
+in /var/www/vyd3/protected/controllers/TabHechosRealvspresupuestoController.php (302)
+in /var/www/vyd3/protected/modules/ldap/components/CrugeAccessControlFilter.php (90)
+2016/01/03 14:16:59 [error] [php] Undefined variable: unidad_gJ (/var/www/vyd3/protected/models/TabHechosRealvspresupuesto.php:276)
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/yii/framework/web/filters/CFilterChain.php(133): TabHechosRealvspresupuestoController->runAction()
+#2 /var/www/vyd3/protected/modules/ldap/components/CrugeAccessControlFilter.php(90): CFilterChain->run()
+#3 /var/www/yii/framework/web/filters/CFilter.php(38): CrugeAccessControlFilter->preFilter()
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CrugeAccessControlFilter->filter()
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): TabHechosRealvspresupuestoController->runActionWithFilters()
+#7 /var/www/yii/framework/web/CWebApplication.php(282): TabHechosRealvspresupuestoController->run()
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/vyd3/index.php(13): CWebApplication->run()
+REQUEST_URI=/vyd3/index.php/TabHechosRealvspresupuesto/cat
+in /var/www/vyd3/protected/models/TabHechosRealvspresupuesto.php (276)
+in /var/www/vyd3/protected/controllers/TabHechosRealvspresupuestoController.php (302)
+in /var/www/vyd3/protected/modules/ldap/components/CrugeAccessControlFilter.php (90)
+2016/01/03 14:22:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "amcharts/images/lens.png"' in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('amcharts/images...')
+#1 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/vyd3/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/vyd3/index.php/amcharts/images/lens.png
+HTTP_REFERER=http://localhost/vyd3/index.php/TabHechosRealvspresupuesto/select
+---
+2016/01/03 14:37:19 [error] [php] Invalid argument supplied for foreach() (/var/www/yii/framework/web/helpers/CHtml.php:2078)
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/yii/framework/web/filters/CFilterChain.php(133): TabHechosRealvspresupuestoController->runAction()
+#2 /var/www/vyd3/protected/modules/ldap/components/CrugeAccessControlFilter.php(90): CFilterChain->run()
+#3 /var/www/yii/framework/web/filters/CFilter.php(38): CrugeAccessControlFilter->preFilter()
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CrugeAccessControlFilter->filter()
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): TabHechosRealvspresupuestoController->runActionWithFilters()
+#7 /var/www/yii/framework/web/CWebApplication.php(282): TabHechosRealvspresupuestoController->run()
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/vyd3/index.php(13): CWebApplication->run()
+REQUEST_URI=/vyd3/index.php/TabHechosRealvspresupuesto/rub
+in /var/www/vyd3/protected/controllers/TabHechosRealvspresupuestoController.php (328)
+in /var/www/vyd3/protected/modules/ldap/components/CrugeAccessControlFilter.php (90)
+in /var/www/vyd3/index.php (13)
+2016/01/03 14:47:03 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:47:03 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:47:03 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:47:03 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:47:03 [info] [application] CrugeSession::store() #416
+result=1
+errorinfo:
+json: {"idsession":416,"iduser":1,"created":"1451837193","expire":"1451838993","status":0,"ipaddress":"127.0.0.1","usagecount":2,"lastusage":"1451837925","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:47:03 [info] [application] SiteController
+actionLogin
+
+in /var/www/vyd/protected/controllers/SiteController.php (132)
+in /var/www/vyd/index.php (13)
+2016/01/03 14:47:04 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:47:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:47:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:47:04 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:47:04 [info] [application] CrugeSession::store() #416
+result=1
+errorinfo:
+json: {"idsession":416,"iduser":1,"created":"1451837193","expire":"1451838993","status":0,"ipaddress":"127.0.0.1","usagecount":2,"lastusage":"1451837925","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:47:04 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:47:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:47:04 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:47:04 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:47:04 [info] [application] CrugeSession::store() #416
+result=1
+errorinfo:
+json: {"idsession":416,"iduser":1,"created":"1451837193","expire":"1451838993","status":0,"ipaddress":"127.0.0.1","usagecount":2,"lastusage":"1451837925","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:47:10 [info] [application] CrugeSession. validateSession. causa: estatus cerrado
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (133)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (453)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:47:10 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:47:10 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+2016/01/03 14:47:10 [info] [application] DefaultSessionFilter.onSessionExpired
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (96)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (457)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (229)
+2016/01/03 14:47:10 [info] [application] CrugeSession::store() #416
+result=1
+errorinfo:
+json: {"idsession":416,"iduser":1,"created":"1451837193","expire":"1451838993","status":0,"ipaddress":"127.0.0.1","usagecount":2,"lastusage":"1451837925","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (100)
+2016/01/03 14:47:10 [info] [application] SiteController
+actionLogin
+
+in /var/www/vyd/protected/controllers/SiteController.php (132)
+in /var/www/vyd/index.php (13)
+2016/01/03 14:47:10 [info] [application] CrugeUserManager::loadUser
+usernameOrEmail=admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (251)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (95)
+2016/01/03 14:47:10 [info] [application] CrugeFactory::getICrugeStoredUser
+usernameOrEmail=admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (297)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+2016/01/03 14:47:10 [info] [application] CrugeFactory::getICrugeStoredUser
+ buscando por -username- a admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (314)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+2016/01/03 14:47:10 [info] [application] CrugeFactory::getICrugeStoredUser
+ **USUARIO HA SIDO HALLADO** admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (324)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+2016/01/03 14:47:11 [info] [application] CrugeLogon
+authenticate()
+
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (66)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (95)
+in /var/www/vyd/protected/controllers/SiteController.php (141)
+2016/01/03 14:47:11 [info] [application] CrugeUser::__construct
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (74)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (770)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (67)
+2016/01/03 14:47:11 [info] [application] CrugeUser::authenticate
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (80)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (95)
+2016/01/03 14:47:11 [info] [application] CrugeUser::authenticate
+authmode es:
+default
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (85)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (95)
+2016/01/03 14:47:11 [info] [application] levantando clases de autenticacion de:
+/var/www/vyd/protected/modules/cruge/models/auth
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (410)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (277)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (470)
+2016/01/03 14:47:11 [info] [application] findfile: AlternateAuthDemo.php, isPhp?YES
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (417)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (277)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (470)
+2016/01/03 14:47:11 [info] [application] findfile: CrugeAuthDefault.php, isPhp?YES
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (417)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (277)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (470)
+2016/01/03 14:47:11 [info] [application] CrugeUser::_performAuth
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (117)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (90)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+2016/01/03 14:47:11 [info] [application] CrugeAuthDefault::authenticate
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (64)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (120)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (90)
+2016/01/03 14:47:11 [info] [application] CrugeUserManager::loadUser
+usernameOrEmail=admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (251)
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (120)
+2016/01/03 14:47:11 [info] [application] CrugeFactory::getICrugeStoredUser
+usernameOrEmail=admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (297)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+2016/01/03 14:47:11 [info] [application] CrugeFactory::getICrugeStoredUser
+ buscando por -username- a admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (314)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+2016/01/03 14:47:11 [info] [application] CrugeFactory::getICrugeStoredUser
+ **USUARIO HA SIDO HALLADO** admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (324)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+2016/01/03 14:47:11 [info] [application] CrugeAuthDefault::authenticate Usuario Retornado:
+{"iduser":1,"regdate":"1400076907","actdate":"1400076907","logondate":"1451846649","username":"admin","email":"cislibre@cantv.com.ve","password":"21232f297a57a5a743894a0e4a801fc3","authkey":null,"state":1,"totalsessioncounter":0,"currentsessioncounter":0}
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (73)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (120)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (90)
+2016/01/03 14:47:11 [info] [application] CrugeAuthDefault
+authenticate returns:
+0
+ boolean result is:1
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (105)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (120)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (90)
+2016/01/03 14:47:11 [info] [application] CrugeUser::authenticate
+_performAuth es true
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (91)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (95)
+2016/01/03 14:47:11 [info] [application] CrugeLogon::login
+intento iniciar sesion. duration=0, username=admin
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (109)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (96)
+in /var/www/vyd/protected/controllers/SiteController.php (141)
+2016/01/03 14:47:11 [info] [application] CrugeWebUser
+login
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (349)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (96)
+2016/01/03 14:47:11 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (355)
+2016/01/03 14:47:11 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (355)
+2016/01/03 14:47:11 [info] [application] CrugeWebUser
+filtro->startSession
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (373)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (96)
+2016/01/03 14:47:11 [info] [application] CrugeSession::findLast iduser=1
+curSession:{"idsession":422,"iduser":1,"created":"1451846649","expire":"1451848449","status":1,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451846649","logoutdate":null,"ipaddressout":null}
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (107)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (51)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (407)
+2016/01/03 14:47:11 [info] [application] CrugeSession. validateSession. causa: sesion expirada. date.now=1451848631
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (142)
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (112)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (51)
+2016/01/03 14:47:11 [info] [application] CrugeSession::findLast
+result:[sesion encontrada][sesion no validada]
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (122)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (51)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (407)
+2016/01/03 14:47:11 [info] [application] CrugeUserManager::createSession. user=#1
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (449)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (71)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (374)
+2016/01/03 14:47:11 [info] [application] CrugeWebUser
+filtro->startSession OK
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (375)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (96)
+2016/01/03 14:47:11 [info] [application] CrugeSession::store() #423
+result=1
+errorinfo:
+json: {"status":1,"usagecount":1,"iduser":1,"created":1451848631,"lastusage":1451848631,"expire":1451850431,"ipaddress":"127.0.0.1","idsession":"423","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (377)
+2016/01/03 14:47:11 [info] [application] DefaultSessionFilter.onLogin
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (133)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (383)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+2016/01/03 14:47:11 [info] [application] CrugeStoredUser::save
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeStoredUser.php (171)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (384)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (137)
+2016/01/03 14:47:11 [info] [application] CrugeStoredUser::save returns: [1]
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeStoredUser.php (178)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (384)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (137)
+2016/01/03 14:47:11 [info] [application] LdapController
+CrugeLogon->login() returns true
+
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (98)
+in /var/www/vyd/protected/controllers/SiteController.php (141)
+in /var/www/vyd/index.php (13)
+2016/01/03 14:47:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "amcharts/images/lens.png"' in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('amcharts/images...')
+#1 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/vyd/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/vyd/index.php/amcharts/images/lens.png
+HTTP_REFERER=http://localhost/vyd/index.php/TabHechosRealvspresupuesto/select
+---
+2016/03/09 22:16:39 [info] [application] SiteController
+actionLogin
+
+in /var/www/vyd/protected/controllers/SiteController.php (132)
+in /var/www/vyd/index.php (13)
+2016/03/09 22:16:45 [info] [application] SiteController
+actionLogin
+
+in /var/www/vyd/protected/controllers/SiteController.php (132)
+in /var/www/vyd/index.php (13)
+2016/03/09 22:16:45 [info] [application] CrugeUserManager::loadUser
+usernameOrEmail=admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (251)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (95)
+2016/03/09 22:16:45 [info] [application] CrugeFactory::getICrugeStoredUser
+usernameOrEmail=admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (297)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+2016/03/09 22:16:45 [info] [application] CrugeFactory::getICrugeStoredUser
+ buscando por -username- a admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (314)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+2016/03/09 22:16:45 [info] [application] CrugeFactory::getICrugeStoredUser
+ **USUARIO HA SIDO HALLADO** admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (324)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (58)
+2016/03/09 22:16:45 [info] [application] CrugeLogon
+authenticate()
+
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (66)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (95)
+in /var/www/vyd/protected/controllers/SiteController.php (141)
+2016/03/09 22:16:45 [info] [application] CrugeUser::__construct
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (74)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (770)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (67)
+2016/03/09 22:16:45 [info] [application] CrugeUser::authenticate
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (80)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (95)
+2016/03/09 22:16:45 [info] [application] CrugeUser::authenticate
+authmode es:
+default
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (85)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (95)
+2016/03/09 22:16:45 [info] [application] levantando clases de autenticacion de:
+/var/www/vyd/protected/modules/cruge/models/auth
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (410)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (277)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (470)
+2016/03/09 22:16:45 [info] [application] findfile: AlternateAuthDemo.php, isPhp?YES
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (417)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (277)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (470)
+2016/03/09 22:16:45 [info] [application] findfile: CrugeAuthDefault.php, isPhp?YES
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (417)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (277)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (470)
+2016/03/09 22:16:45 [info] [application] CrugeUser::_performAuth
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (117)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (90)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+2016/03/09 22:16:45 [info] [application] CrugeAuthDefault::authenticate
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (64)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (120)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (90)
+2016/03/09 22:16:45 [info] [application] CrugeUserManager::loadUser
+usernameOrEmail=admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (251)
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (120)
+2016/03/09 22:16:45 [info] [application] CrugeFactory::getICrugeStoredUser
+usernameOrEmail=admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (297)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+2016/03/09 22:16:45 [info] [application] CrugeFactory::getICrugeStoredUser
+ buscando por -username- a admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (314)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+2016/03/09 22:16:45 [info] [application] CrugeFactory::getICrugeStoredUser
+ **USUARIO HA SIDO HALLADO** admin
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (324)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (252)
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (68)
+2016/03/09 22:16:45 [info] [application] CrugeAuthDefault::authenticate Usuario Retornado:
+{"iduser":1,"regdate":"1400076907","actdate":"1400076907","logondate":"1451848631","username":"admin","email":"cislibre@cantv.com.ve","password":"21232f297a57a5a743894a0e4a801fc3","authkey":null,"state":1,"totalsessioncounter":0,"currentsessioncounter":0}
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (73)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (120)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (90)
+2016/03/09 22:16:45 [info] [application] CrugeAuthDefault
+authenticate returns:
+0
+ boolean result is:1
+in /var/www/vyd/protected/modules/cruge/models/auth/CrugeAuthDefault.php (105)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (120)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (90)
+2016/03/09 22:16:45 [info] [application] CrugeUser::authenticate
+_performAuth es true
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeUser.php (91)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (68)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (95)
+2016/03/09 22:16:45 [info] [application] CrugeLogon::login
+intento iniciar sesion. duration=0, username=admin
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (109)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (96)
+in /var/www/vyd/protected/controllers/SiteController.php (141)
+2016/03/09 22:16:45 [info] [application] CrugeWebUser
+login
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (349)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (96)
+2016/03/09 22:16:45 [info] [application] CrugeFactory
+getICrugeSessionFilter
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (365)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (355)
+2016/03/09 22:16:45 [info] [application] CrugeFactory
+getICrugeSessionFilter
+new instance for: DefaultSessionFilter
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (379)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (420)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (355)
+2016/03/09 22:16:45 [info] [application] CrugeWebUser
+filtro->startSession
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (373)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (96)
+2016/03/09 22:16:45 [info] [application] CrugeSession::findLast iduser=1
+curSession:{"idsession":423,"iduser":1,"created":"1451848631","expire":"1451850431","status":1,"ipaddress":"127.0.0.1","usagecount":1,"lastusage":"1451848631","logoutdate":null,"ipaddressout":null}
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (107)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (51)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (407)
+2016/03/09 22:16:45 [info] [application] CrugeSession. validateSession. causa: sesion expirada. date.now=1457578005
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (142)
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (112)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (51)
+2016/03/09 22:16:45 [info] [application] CrugeSession::findLast
+result:[sesion encontrada][sesion no validada]
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (122)
+in /var/www/vyd/protected/modules/cruge/components/CrugeFactory.php (51)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (407)
+2016/03/09 22:16:45 [info] [application] CrugeUserManager::createSession. user=#1
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (449)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (71)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (374)
+2016/03/09 22:16:45 [info] [application] CrugeWebUser
+filtro->startSession OK
+
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (375)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (96)
+2016/03/09 22:16:45 [info] [application] CrugeSession::store() #424
+result=1
+errorinfo:
+json: {"status":1,"usagecount":1,"iduser":1,"created":1457578005,"lastusage":1457578005,"expire":1457579805,"ipaddress":"127.0.0.1","idsession":"424","logoutdate":null,"ipaddressout":null}
+
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeSession.php (67)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (124)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (377)
+2016/03/09 22:16:45 [info] [application] DefaultSessionFilter.onLogin
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (133)
+in /var/www/vyd/protected/modules/cruge/components/CrugeWebUser.php (383)
+in /var/www/vyd/protected/modules/cruge/models/ui/CrugeLogon.php (110)
+2016/03/09 22:16:45 [info] [application] CrugeStoredUser::save
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeStoredUser.php (171)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (384)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (137)
+2016/03/09 22:16:46 [info] [application] CrugeStoredUser::save returns: [1]
+in /var/www/vyd/protected/modules/cruge/models/data/CrugeStoredUser.php (178)
+in /var/www/vyd/protected/modules/cruge/components/CrugeUserManager.php (384)
+in /var/www/vyd/protected/modules/cruge/models/filters/DefaultSessionFilter.php (137)
+2016/03/09 22:16:46 [info] [application] LdapController
+CrugeLogon->login() returns true
+
+in /var/www/vyd/protected/modules/ldap/components/LdapController.php (98)
+in /var/www/vyd/protected/controllers/SiteController.php (141)
+in /var/www/vyd/index.php (13)
+2016/03/21 22:57:36 [error] [exception.CrugeException.401] action_tabRubros_admin<br/>401
+REQUEST_URI=/vyd/index.php/tabRubros/admin
+HTTP_REFERER=http://localhost/vyd/index.php/site/index
+---
+2016/03/21 22:57:36 [info] [application] SiteController
+actionLogin
+
+in /var/www/vyd/protected/controllers/SiteController.php (132)
+in /var/www/vyd/protected/controllers/SiteController.php (51)
+2018/04/10 19:19:50 [error] [exception.CDbException] exception 'CDbException' with message 'La tabla "cruge_session" definida en la clase active record "CrugeSession" no se ha podido encontrar en la base de datos.' in C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php:2362
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(CrugeSession))
+#1 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(658): CActiveRecord->getMetaData()
+#2 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(1485): CActiveRecord->getTableSchema()
+#3 C:\xampp\htdocs\vyd\protected\modules\cruge\models\data\CrugeSession.php(90): CActiveRecord->findByPk('0')
+#4 C:\xampp\htdocs\vyd\protected\modules\cruge\components\CrugeFactory.php(46): CrugeSession::loadModel('0')
+#5 C:\xampp\htdocs\vyd\protected\modules\ldap\components\CrugeUserManagerLdap.php(412): CrugeFactory->getICrugeSession('0')
+#6 C:\xampp\htdocs\vyd\protected\modules\ldap\components\CrugeWebUserLdap.php(451): CrugeUserManagerLdap->loadSession('0')
+#7 C:\xampp\htdocs\vyd\protected\modules\ldap\components\CrugeWebUserLdap.php(229): CrugeWebUserLdap->getICrugeSession()
+#8 C:\xampp\htdocs\vyd\protected\modules\ldap\components\CrugeWebUserLdap.php(242): CrugeWebUserLdap->getId()
+#9 C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php(200): CrugeWebUserLdap->getIsGuest()
+#10 C:\xampp\htdocs\vyd\protected\modules\ldap\components\CrugeWebUserLdap.php(45): CWebUser->init()
+#11 C:\xampp\htdocs\yii\framework\base\CModule.php(387): CrugeWebUserLdap->init()
+#12 C:\xampp\htdocs\yii\framework\base\CModule.php(103): CModule->getComponent('userManagerLdap')
+#13 C:\xampp\htdocs\vyd\protected\controllers\SiteController.php(124): CModule->__get('userManagerLdap')
+#14 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#15 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#16 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#17 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('login')
+#19 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#20 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#21 C:\xampp\htdocs\vyd\index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/vyd/
+---
+2018/04/10 19:22:05 [error] [exception.CDbException] exception 'CDbException' with message 'La tabla "cruge_session" definida en la clase active record "CrugeSession" no se ha podido encontrar en la base de datos.' in C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php:2362
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(CrugeSession))
+#1 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(658): CActiveRecord->getMetaData()
+#2 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(1485): CActiveRecord->getTableSchema()
+#3 C:\xampp\htdocs\vyd\protected\modules\cruge\models\data\CrugeSession.php(90): CActiveRecord->findByPk('0')
+#4 C:\xampp\htdocs\vyd\protected\modules\cruge\components\CrugeFactory.php(46): CrugeSession::loadModel('0')
+#5 C:\xampp\htdocs\vyd\protected\modules\ldap\components\CrugeUserManagerLdap.php(412): CrugeFactory->getICrugeSession('0')
+#6 C:\xampp\htdocs\vyd\protected\modules\ldap\components\CrugeWebUserLdap.php(451): CrugeUserManagerLdap->loadSession('0')
+#7 C:\xampp\htdocs\vyd\protected\modules\ldap\components\CrugeWebUserLdap.php(229): CrugeWebUserLdap->getICrugeSession()
+#8 C:\xampp\htdocs\vyd\protected\modules\ldap\components\CrugeWebUserLdap.php(242): CrugeWebUserLdap->getId()
+#9 C:\xampp\htdocs\yii\framework\web\auth\CWebUser.php(200): CrugeWebUserLdap->getIsGuest()
+#10 C:\xampp\htdocs\vyd\protected\modules\ldap\components\CrugeWebUserLdap.php(45): CWebUser->init()
+#11 C:\xampp\htdocs\yii\framework\base\CModule.php(387): CrugeWebUserLdap->init()
+#12 C:\xampp\htdocs\yii\framework\base\CModule.php(103): CModule->getComponent('userManagerLdap')
+#13 C:\xampp\htdocs\vyd\protected\controllers\SiteController.php(124): CModule->__get('userManagerLdap')
+#14 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#15 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#16 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#17 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('login')
+#19 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#20 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#21 C:\xampp\htdocs\vyd\index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/vyd/
+---
+2018/04/10 19:52:23 [info] [application] SiteController
+actionLogin
+
+in C:\xampp\htdocs\vyd\protected\controllers\SiteController.php (132)
+in C:\xampp\htdocs\vyd\index.php (13)

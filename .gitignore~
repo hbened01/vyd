@@ -1,0 +1,7 @@
+# Ignores
+run.sh
+carga.sh
+voz_datos.sql
+assets/*
+
+
